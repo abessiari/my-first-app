@@ -5,6 +5,9 @@ ng new my-first-app
 ng serve --help
 ng serve --port 4300
 
+// CSS styles
+npm install --save bootstrap@3 
+
 # MyFirstApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
